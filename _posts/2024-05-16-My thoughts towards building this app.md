@@ -12,3 +12,4 @@ This app allows me to record and visualize my spending, and relay splitting expe
 Well, I don't want to double work, keeping my spending data on one app while adding bill splits to splitwise. But most importantly, I want to get hands-on on app development. So I'm going to customize what I want to analyse, to learn about my spending habit, be more conscious on spending and eventually maximise my savings. 
 
 Wish me luck.
+Hehe.
